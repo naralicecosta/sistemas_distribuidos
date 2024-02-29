@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 class Program 
 {
-    using var htttpClient = new htttpClient(); // variavel genérica
+    using var htttpClient = new htttpClient(); // variavel genérica / usa-se quando não se sabe o tipo de dado
     string url = "https://github.com"
     HttpResponseMessage response = await htttpClient GetAsync(url)
 
