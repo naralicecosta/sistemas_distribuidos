@@ -1,0 +1,14 @@
+C:\Users\naral\sistemas_distribuidos\aula2902\bin\Debug\net7.0\aula2902.exe
+C:\Users\naral\sistemas_distribuidos\aula2902\bin\Debug\net7.0\aula2902.deps.json
+C:\Users\naral\sistemas_distribuidos\aula2902\bin\Debug\net7.0\aula2902.runtimeconfig.json
+C:\Users\naral\sistemas_distribuidos\aula2902\bin\Debug\net7.0\aula2902.dll
+C:\Users\naral\sistemas_distribuidos\aula2902\bin\Debug\net7.0\aula2902.pdb
+C:\Users\naral\sistemas_distribuidos\aula2902\obj\Debug\net7.0\aula2902.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naral\sistemas_distribuidos\aula2902\obj\Debug\net7.0\aula2902.AssemblyInfoInputs.cache
+C:\Users\naral\sistemas_distribuidos\aula2902\obj\Debug\net7.0\aula2902.AssemblyInfo.cs
+C:\Users\naral\sistemas_distribuidos\aula2902\obj\Debug\net7.0\aula2902.csproj.CoreCompileInputs.cache
+C:\Users\naral\sistemas_distribuidos\aula2902\obj\Debug\net7.0\aula2902.dll
+C:\Users\naral\sistemas_distribuidos\aula2902\obj\Debug\net7.0\refint\aula2902.dll
+C:\Users\naral\sistemas_distribuidos\aula2902\obj\Debug\net7.0\aula2902.pdb
+C:\Users\naral\sistemas_distribuidos\aula2902\obj\Debug\net7.0\aula2902.genruntimeconfig.cache
+C:\Users\naral\sistemas_distribuidos\aula2902\obj\Debug\net7.0\ref\aula2902.dll
