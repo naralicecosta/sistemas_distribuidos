@@ -1,0 +1,4 @@
+C:\Users\naral\sistemas_distribuidos\PROJ-ACAD-PROCESS\obj\Debug\net7.0\PROJ-ACAD-PROCESS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naral\sistemas_distribuidos\PROJ-ACAD-PROCESS\obj\Debug\net7.0\PROJ-ACAD-PROCESS.AssemblyInfoInputs.cache
+C:\Users\naral\sistemas_distribuidos\PROJ-ACAD-PROCESS\obj\Debug\net7.0\PROJ-ACAD-PROCESS.AssemblyInfo.cs
+C:\Users\naral\sistemas_distribuidos\PROJ-ACAD-PROCESS\obj\Debug\net7.0\PROJ-ACAD-PROCESS.csproj.CoreCompileInputs.cache
