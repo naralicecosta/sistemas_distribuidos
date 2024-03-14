@@ -22,3 +22,24 @@ class Program
         }
     }
 }
+
+ //////////////////////////////////
+ var numeros = Enumerable.Range(1, 1000);
+ var pares = numeros.asParallel() Where(n => n % 2 == 0).toArray();
+ console WriteLine($"Quantidade de números pares: {pares.Length}")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
