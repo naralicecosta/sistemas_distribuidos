@@ -30,6 +30,44 @@ class Program
 
 
 
+////////////////////////
+
+using System;
+using System.Diagnostics;
+class Program
+{
+ static void Main()
+ {
+ ProcessStartInfo startInfo = new ProcessStartInfo();
+ startInfo.FileName = "notepad.exe";
+ Process.Start(startInfo);
+ Console.WriteLine("O Bloco de Notas foi iniciado em um processo separado.");
+ }
+}
+////////////////////////
+using System;
+using System.Diagnostics;
+class Program
+{
+ static void Main()
+ {
+ Action<string> verificarAbertura = programa =>
+ {
+ Process[] processos = Process.GetProcessesByName(programa);
+ if (processos.Length > 0)
+ {
+ Console.WriteLine($"{programa} está aberto.");
+ }
+ else
+ {
+ Console.WriteLine($"{programa} não está aberto.");
+ }
+ };
+ verificarAbertura("chrome");
+ verificarAbertura("notepad");
+ }
+}
+
 
 
 
