@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\naral\\sistemas_distribuidos\\PROJ-ACAD-PROCESS\\PROJ-ACAD-PROCESS.csproj",
-      "projectName": "PROJ-ACAD-PROCESS",
-      "projectPath": "C:\\Users\\naral\\sistemas_distribuidos\\PROJ-ACAD-PROCESS\\PROJ-ACAD-PROCESS.csproj",
+      "projectUniqueName": "C:\\Users\\naral\\sistemas_distribuidos\\proj_acad_academico\\proj_acad_academico.csproj",
+      "projectName": "proj_acad_academico",
+      "projectPath": "C:\\Users\\naral\\sistemas_distribuidos\\proj_acad_academico\\proj_acad_academico.csproj",
       "packagesPath": "C:\\Users\\naral\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\naral\\sistemas_distribuidos\\PROJ-ACAD-PROCESS\\obj\\",
+      "outputPath": "C:\\Users\\naral\\sistemas_distribuidos\\proj_acad_academico\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\naral\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.407\\RuntimeIdentifierGraph.json"
       }
     }
   }
